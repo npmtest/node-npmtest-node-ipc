@@ -1,4 +1,7 @@
-# test coverage for  [node-ipc (v9.0.1)](http://riaevangelist.github.io/node-ipc/)  [![npm package](https://img.shields.io/npm/v/npmtest-node-ipc.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-node-ipc) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-node-ipc.svg)](https://travis-ci.org/npmtest/node-npmtest-node-ipc)
+# npmtest-node-ipc
+
+#### basic test coverage for  [node-ipc (v9.0.1)](http://riaevangelist.github.io/node-ipc/)  [![npm package](https://img.shields.io/npm/v/npmtest-node-ipc.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-node-ipc) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-node-ipc.svg)](https://travis-ci.org/npmtest/node-npmtest-node-ipc)
+
 #### A nodejs module for local and remote Inter Process Communication (IPC), Neural Networking, and able to facilitate machine learning.
 
 [![NPM](https://nodei.co/npm/node-ipc.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/node-ipc)
